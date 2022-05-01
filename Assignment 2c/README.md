@@ -1,5 +1,5 @@
 # Output
 
-![Screenshot from 2022-04-25 03-33-37](https://user-images.githubusercontent.com/59522615/164998654-f3c35e96-af65-4c77-9d19-eaa9f96e8f0e.png)
-![Screenshot from 2022-04-25 03-33-40](https://user-images.githubusercontent.com/59522615/164998655-239d3b57-77f5-4f47-9037-6549ce10d077.png)
-![Screenshot from 2022-04-25 03-33-44](https://user-images.githubusercontent.com/59522615/164998657-183ff822-4b62-4849-93d9-4df74a4a08db.png)
+![Assignment 3b_1](https://user-images.githubusercontent.com/65949520/166138940-e414178d-698e-4aef-8831-62b0b06bcbb8.png)
+![Assignment 3b_2](https://user-images.githubusercontent.com/65949520/166138942-6621024b-0579-47fd-91e8-77f987e61510.png)
+![Assignment 3b_3](https://user-images.githubusercontent.com/65949520/166138943-8e4bd2e2-3e0f-4a7d-838e-6792320fcc51.png)
